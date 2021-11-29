@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/gabrielts212">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
 
 <div style="display: inline_block"><br>

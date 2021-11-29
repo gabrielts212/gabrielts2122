@@ -3,7 +3,8 @@
 <div align="center">
   <a href="https://github.com/gabrielts212">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats"/>
+ <img height="180em" src="https://github.com/anuraghazra/github-readme-stats
+"/>
 </div>
 
 

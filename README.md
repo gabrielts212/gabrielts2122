@@ -1,15 +1,10 @@
 
 ## Olá! Eu sou o Gabriel 🖐️
-
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
-  
   •💻 I’m currently studying to be a Full-Stack Developer
-  
   •📚 I'm currently learning Javascript
-  
   •📧 My E-mail:gabrielts2122@gmail.com
-  
-<div align="center">
+  <div align="center">
   <a href="https://github.com/gabrielts212">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
 

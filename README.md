@@ -8,6 +8,7 @@
   
   •📚 I'm currently learning Javascript
   
+  Languages e tools 🛠
   •📧 My E-mail:gabrielts2122@gmail.com
   <div align="center">
   <a href="https://github.com/gabrielts212">

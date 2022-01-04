@@ -1,5 +1,6 @@
 
-## Hello World! https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true
+## Hello World! ![image](https://user-images.githubusercontent.com/91156517/148113954-0072929f-bfb3-4a88-b855-df5e093a06b1.png)
+
 
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   

@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Gabriel 🖐️ Hello World! 
+## Olá! Eu sou o Gabriel 
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer

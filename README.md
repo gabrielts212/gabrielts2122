@@ -1,5 +1,5 @@
 
-## Hello World! Assets/Earth.gif
+## Hello World! 
 
 
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva

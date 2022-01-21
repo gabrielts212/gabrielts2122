@@ -1,16 +1,16 @@
 
 ## Hello World! 
+![image](https://user-images.githubusercontent.com/91156517/150599562-58e990fc-3e89-4f15-bde5-158d39e29a44.png)
 
-
-  •🎓  I'm a 2rd Year  analysis and systems development student at Uva
+ •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer
   
   •📚 I'm currently learning Javascript
   
   •📧 My E-mail:gabrielts2122@gmail.com
-  <div align="center">
- <a href="https://github.com/gabrielts212"> 
+  
+  <a href="https://github.com/gabrielts212"> 
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&theme=gradient"/> <img height="180em"src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
 
 <div style="display: inline_block"><br/>

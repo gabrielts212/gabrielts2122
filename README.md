@@ -1,17 +1,19 @@
-
 ## Hello World! 
+
 ![image](https://user-images.githubusercontent.com/91156517/150599562-58e990fc-3e89-4f15-bde5-158d39e29a44.png)
 
- •🎓  I'm a 2rd Year  analysis and systems development student at Uva
+  •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer
   
   •📚 I'm currently learning Javascript
   
   •📧 My E-mail:gabrielts2122@gmail.com
-  
+  <div>
   <a href="https://github.com/gabrielts212"> 
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&theme=gradient"/> <img height="180em"src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/> 
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
+  </div>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,5 +32,4 @@
   <a href="https://www.linkedin.com/in/gabriel-nascimento-417b05214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/mirandox/mirandox/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>

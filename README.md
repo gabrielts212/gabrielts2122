@@ -7,10 +7,9 @@
   •📚 I'm currently learning Javascript
   
   •📧 My E-mail:gabrielts2122@gmail.com
-<div display:inline-block>
-<a href="https://github.com/gabrielts212"> 
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/>
-<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
+<div>
+<a href="https://github.com/gabrielts212">
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/><img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
 </div>
   <h3>Languages and Tools:</h3>
   <div style="display: inline_block"><br/>

@@ -11,7 +11,7 @@
   •📧 My E-mail:gabrielts2122@gmail.com
   <div>
   <a href="https://github.com/gabrielts212"> 
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/> <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/><img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
   </div>
    Languages and Tools:
   <div style="display: inline_block"><br/>

@@ -9,13 +9,13 @@
   •📚 I'm currently learning Javascript
   
   •📧 My E-mail:gabrielts2122@gmail.com
-  <div>
+  <div><h3>
   <a href="https://github.com/gabrielts212"> 
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/>
-<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
-  </div>
-   Languages and Tools:
-  <div style="display: inline_block"><br/>
+<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/> 
+    </h3>
+    </div>
+  <div style="display: inline_block"><h3>Languages and Tools:</h3><br/>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -1,7 +1,5 @@
-## Hello World! 
-
-![image](https://user-images.githubusercontent.com/91156517/150599562-58e990fc-3e89-4f15-bde5-158d39e29a44.png)
-
+## Hello World!
+<img src="https://img.icons8.com/officel/80/000000/globe--v2.png"/>
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer
@@ -9,11 +7,11 @@
   •📚 I'm currently learning Javascript
   
   •📧 My E-mail:gabrielts2122@gmail.com
-  <div>
+<div display:inline-block>
 <a href="https://github.com/gabrielts212"> 
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/>
-<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/> 
-   </div>
+<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
+</div>
   <h3>Languages and Tools:</h3>
   <div style="display: inline_block"><br/>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

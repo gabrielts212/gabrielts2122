@@ -1,5 +1,6 @@
 ## Hello World!
 <img src="https://img.icons8.com/officel/80/000000/globe--v2.png"/>
+  
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer

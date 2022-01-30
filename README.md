@@ -12,6 +12,7 @@
 <a href="https://github.com/gabrielts212">
 <img height="160em"src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient"/><img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact")/>
   </a>
+  
 </div>
   <h3>Languages and Tools:</h3>
   <div style="display: inline_block"><br/>
@@ -24,7 +25,8 @@
   <img align="center" alt="gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="gabriel-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </div><br/>
+ </div><br/>
+   
    <div> 
  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="colocar o link do discord aqui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

@@ -9,7 +9,7 @@
   
   •📚 I'm currently learning Javascript
   
-  •📧 My E-mail:gabrielts2122@gmail.com
+  •📧 My E-mail: gabrielts2122@gmail.com
  
   <h3>Languages e tools 🛠</h3>
  <div style="display: inline_block">

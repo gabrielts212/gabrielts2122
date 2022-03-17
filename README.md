@@ -28,9 +28,10 @@
 <div>
  <h3>My github stats 📊</h3>
  <p align="left">
-  <a href="https://github.com/gabrielts212">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gabrielts212&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact&langs_count=7&theme=gradient"/> </p>
+   <a href="https://github.com/gabrielts212">
+   <p align="left">
+    <a href="https://github.com/gabrielts212"><img  alt="gabriel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielts212?cardType=github&theme=nord" />  </a>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact&langs_count=7&theme=nord"/> </p>
    
   
 ![gabrielts212 ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielts212&custom_title=gabrielts212%20Contribution%20Graph&theme=dracula&bg_color=4F4F4F&hide_border=true&line=00FF00&point=00FF00)

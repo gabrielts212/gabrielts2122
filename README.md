@@ -2,6 +2,8 @@
  <img src="https://img.icons8.com/officel/80/000000/globe--v2.png"/> 
   
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+   
+  ![](https://komarev.com/ghpvc/?username=gabrielts212)
   
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   

@@ -3,8 +3,7 @@
   
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
    
-  ![](https://komarev.com/ghpvc/?username=gabrielts212)
-  
+  ![](https://komarev.com/ghpvc/?username=)
   •🎓  I'm a 2rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer

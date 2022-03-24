@@ -1,5 +1,6 @@
 ## Hello! I'm Gabriel
- <img src="https://img.icons8.com/officel/80/000000/globe--v2.png"/> 
+
+ <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="100">
   
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
    
@@ -12,7 +13,8 @@
   •📚 I'm currently learning Javascript
   
   •📧 My E-mail: gabrielts2122@gmail.com
- 
+  
+ <h1>
   <h3>Languages e tools 🛠</h3>
  <div style="display: inline_block">
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,9 +27,12 @@
   <img align="center" alt="gabriel-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    </div>
+<h1></h1>
+
  <div><h3>Connect with me 💬</h3>
  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="colocar o link do discord aqui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href = "mailto:gabrielts2122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gabriel-nascimento-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<div>
+<div><h1></h1>
+ 
  <h3>My github stats 📊</h3>
  <p align="left">
    <a href="https://github.com/gabrielts212">
@@ -39,3 +44,4 @@
  
   ![Snake animation](https://github.com/gabrielts212/gabrielts212/blob/output/github-contribution-grid-snake.svg)
  </div>
+

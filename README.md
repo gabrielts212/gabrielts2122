@@ -10,7 +10,7 @@
   
   •💻 I’m currently studying to be a Full-Stack Developer
   
-  •📚 I'm currently learning Javascript
+  •📚 I'm currently learning Express
   
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>
@@ -28,7 +28,6 @@
   <img align="center" alt="gabriel-json" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gabriel-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="gabriel-postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="gabriel-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
    </div>
 </h1>
 

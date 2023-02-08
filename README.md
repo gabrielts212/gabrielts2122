@@ -6,11 +6,11 @@
    
   ![](https://komarev.com/ghpvc/?username=gabrielts212)
   
-  •🎓  I'm a 2rd Year  analysis and systems development student at Uva
+  •🎓  I'm a 4rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer
   
-  •📚 I'm currently learning Express
+  •📚 I'm currently learning Node
   
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>
@@ -18,17 +18,20 @@
 
   <h3>Languages e tools 🛠</h3>
  <div style="display: inline_block"><h1>
+ <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gabriel-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="gabriel-figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="gabriel-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="gabriel-json" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gabriel-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="gabriel-postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="gabriel-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="gabriel-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />     
+  <img align="center" alt="gabriel-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />     
+ 
+          
           
    </div>
 </h1>

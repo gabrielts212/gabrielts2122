@@ -46,8 +46,8 @@
    <p align="left">
  <a href="https://github.com/gabrielts212"><img  alt="gabriel's GitHub Stats" <img width="47.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielts212?cardType=github&theme=nord" /></a><img width="52.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielts212&layout=compact&langs_count=7&theme=nord"/> </p>
   
-![gabrielts212 ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielts212&custom_title=gabrielts212%20Contribution%20Graph&theme=dracula&bg_color=373b44&hide_border=true&line=bfcff7&point=181619)
-</div>
+<!-- ![gabrielts212 ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielts212&custom_title=gabrielts212%20Contribution%20Graph&theme=dracula&bg_color=373b44&hide_border=true&line=bfcff7&point=181619)
+</div> -->
  
   ![Snake animation](https://github.com/gabrielts212/gabrielts212/blob/output/github-contribution-grid-snake.svg)
  </div>

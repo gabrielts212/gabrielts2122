@@ -10,7 +10,7 @@
   
   •💻 I’m currently studying to be a Full-Stack Developer
   
-  •📚 I'm currently learning Node
+  •📚 I'm currently learning Express
   
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>

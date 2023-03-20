@@ -15,7 +15,7 @@
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>
   
-  
+  <br>
 
 
   <h3>Languages e tools 🛠</h3>

@@ -6,7 +6,7 @@
    
   ![](https://komarev.com/ghpvc/?username=gabrielts212)
   
-  •🎓  I'm a 4rd Year  analysis and systems development student at Uva
+  •🎓  I'm a 5rd Year  analysis and systems development student at Uva
   
   •💻 I’m currently studying to be a Full-Stack Developer
   

@@ -6,11 +6,11 @@
    
   ![](https://komarev.com/ghpvc/?username=gabrielts212)
   
-  •🎓  I'm a 5rd Year  analysis and systems development student at Uva
+  •🎓 I am a student of the last period of systems analysis and development (Uva)
   
   •💻 I’m currently studying to be a Full-Stack Developer
   
-  •📚 I'm currently learning Express
+  •📚 I'm currently learning C# .NET
   
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>

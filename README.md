@@ -43,7 +43,7 @@
 <div></h1>
  
  <h3>My github stats 📊</h3>
- <div align="center">
+ <div align="center"justify-content+"center" >
    <a href="https://github.com/gabrielts212">
    <p align="left" >
  <a href="https://github.com/gabrielts212"><img  alt="gabriel's GitHub Stats" <img height="190px" width:"200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielts212?cardType=github&theme=nord" /></a>

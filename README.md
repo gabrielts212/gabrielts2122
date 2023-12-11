@@ -1,4 +1,4 @@
-## Hello! I'm Gabriel
+3## Hello! I'm Gabriel
 
  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="100">
   
@@ -9,8 +9,6 @@
   •🎓 I am a student of the last period of systems analysis and development (Uva)
   
   •💻 I’m currently studying to be a Full-Stack Developer
-  
-  •📚 I'm currently learning C# .NET
   
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>

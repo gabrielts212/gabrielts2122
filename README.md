@@ -1,4 +1,4 @@
-3## Hello! I'm Gabriel
+ Hello! I'm Gabriel
 
  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="100">
   

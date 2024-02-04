@@ -6,7 +6,7 @@
    
   ![](https://komarev.com/ghpvc/?username=gabrielts212)
   
-  •🎓 I have a degree in Systems Analysis and Development from (Uva).
+  •🎓 Systems Analysis and Development from (Uva).
   
   •💻 I'm a Full-Stack developer
   

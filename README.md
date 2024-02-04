@@ -8,7 +8,7 @@
   
   •🎓 I have a degree in Systems Analysis and Development from (Uva).
   
-  •💻 I’m currently studying to be a Full-Stack Developer
+  •💻 I'm a full-stack developer
   
   •📧 My E-mail: gabrielts2122@gmail.com
   <h1></h1>
